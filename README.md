@@ -73,4 +73,4 @@ npm run test
 
 ## Authors
 
-- Muhammad Azmaar Jamil - Designed and developed Guard Rails Assignemnt
+- Muhammad Azmaar Jamil 
